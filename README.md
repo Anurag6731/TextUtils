@@ -1,4 +1,5 @@
 TextUtils
+
 Description: TextUtils is a web application designed for efficient text manipulation and formatting. Built with Django for the backend and HTML/CSS for the frontend, this application provides users with a seamless experience for processing text. The user-friendly interface allows for easy access to various text manipulation features, making it ideal for anyone who needs to format or analyze text quickly.
 
 Key Features:
